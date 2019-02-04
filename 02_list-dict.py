@@ -5,10 +5,10 @@
 #Crear una lista que contenga varios strings.
 l1 = ["Javier","Programacion Redes Cisco", "Digitaliza", "Python"]
 
-#Crear una lista que contenga varios strings.
+#Crear una lista que contenga varios integers.
 l2 = [18,23,45,67,21,33]
 
-#Crear una lista que contenga varios strings.
+#Crear una lista que contenga strings, integers y floats.
 l3 = [25,"Alicante", "Curso Programación",17.7,"Edad",23.0,"Fecha",39]
 
 
